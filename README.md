@@ -4,4 +4,6 @@ The due to the high ethereum gas fee, FNG token will be ported to other blockcha
 # Blochains to be ported to:
 1. Tron blockchain
 2. Binance smart chain
+3. Solana
+4. Heco
 
